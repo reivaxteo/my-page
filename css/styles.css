@@ -1,6 +1,12 @@
 .displaypic {
   width: 150px;
-  margin: 3% 6%;
+  margin: 3% auto;
+  border-radius: 75px;
+}
+
+.profile-img {
+  text-align: center;
+  line-height: 1.6;
 }
 
 i {
@@ -10,9 +16,22 @@ i {
 
 #nav {
   background-color: #343a40;
-  padding: 0 15px
+  padding: 0 15px;
 }
 
 #profile-info {
-  padding: 30px
+  padding: 20px;
+}
+
+@media (max-width: 990px) {
+  .profile-section {
+    text-align: center;
+    margin: 0 10%;
+  }
+
+  .about-me {
+    padding-top: 30px;
+    background-color: #a6a6a6;
+  }
+
 }
