@@ -3,9 +3,13 @@
   margin: 3% 6%;
 }
 
+i {
+    font-family: fontawesome;
+    font-style: normal;
+}
 
 #nav {
-  background-color: #007bff;
+  background-color: #343a40;
   padding: 0 15px
 }
 
