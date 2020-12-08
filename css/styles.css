@@ -3,10 +3,12 @@
   margin: 3% 6%;
 }
 
+
 #nav {
   background-color: #007bff;
+  padding: 0 15px
 }
 
 #profile-info {
-  padding: 15px
+  padding: 30px
 }
