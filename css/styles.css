@@ -9,6 +9,11 @@
   line-height: 1.6;
 }
 
+.certifications {
+  font-size: 0.8em;
+  line-height: 0;
+}
+
 i {
     font-family: fontawesome;
     font-style: normal;
